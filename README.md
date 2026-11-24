@@ -8,7 +8,7 @@ My focus is the part of character animation that usually breaks: hands touching 
 
 | Project | What it does | Status |
 | --- | --- | --- |
-| [**remotion-2d-rig-toolkit**](https://github.com/Trendtee/remotion-2d-rig-toolkit) | Deterministic 2D arm IK, jointed cartoon hands (9 grip presets) and prop pickup/release with automated continuity checks. Includes a runnable Remotion demo. | v0.2 · MIT · active |
+| [**remotion-2d-rig-toolkit**](https://github.com/Trendtee/remotion-2d-rig-toolkit) | Deterministic 2D arm IK, jointed cartoon hands with a real thumb–index precision pinch, and prop pickup/release with automated contact and continuity checks. Includes a runnable Remotion demo. | v0.2 · MIT · active |
 
 <a href="https://github.com/Trendtee/remotion-2d-rig-toolkit"><img src="https://raw.githubusercontent.com/Trendtee/remotion-2d-rig-toolkit/main/docs/media/mug-pickup.gif" width="320" alt="Cartoon character picking up a mug, carrying it and placing it on a table, animated with remotion-2d-rig-toolkit"></a>
 
